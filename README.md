@@ -1,2 +1,1 @@
 # MyFirstGitProject
-Visual Studuio Version: ?
